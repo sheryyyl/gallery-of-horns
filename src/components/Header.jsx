@@ -1,6 +1,6 @@
 function Header() {
     return (
-    <h1></h1>
+    <h3>Galería de Cuernos</h3>
 )
 }
 export default Header;
